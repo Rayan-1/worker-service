@@ -1,0 +1,138 @@
+2024-10-01 23:46:13.320 -03:00 [INF] Worker running at: "2024-10-01T23:46:13.3092428-03:00"
+2024-10-01 23:46:13.344 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:46:13.406 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 23:46:13.407 -03:00 [INF] Hosting environment: Development
+2024-10-01 23:46:13.407 -03:00 [INF] Content root path: C:\Users\rayan\TaskWorkerService
+2024-10-01 23:46:13.475 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:46:13.476 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:46:13.476 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:46:23.477 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:46:23.481 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:46:23.481 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:46:23.481 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:46:31.265 -03:00 [INF] Application is shutting down...
+2024-10-01 23:46:40.508 -03:00 [INF] Worker running at: "2024-10-01T23:46:40.4957825-03:00"
+2024-10-01 23:46:40.534 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:46:40.599 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 23:46:40.599 -03:00 [INF] Hosting environment: Development
+2024-10-01 23:46:40.599 -03:00 [INF] Content root path: C:\Users\rayan\TaskWorkerService
+2024-10-01 23:46:40.670 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:46:40.671 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:46:40.671 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:46:50.685 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:46:50.701 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:46:50.701 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:46:50.701 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:47:00.712 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:47:00.714 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:47:00.714 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:47:00.715 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:47:10.724 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:47:10.726 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:47:10.726 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:47:10.726 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:47:20.729 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:47:20.732 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:47:20.733 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:47:20.733 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:47:30.739 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:47:30.743 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:47:30.743 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:47:30.743 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:47:40.752 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:47:40.753 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:47:40.753 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:47:40.753 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:47:50.762 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:47:50.763 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:47:50.763 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:47:50.763 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:48:00.773 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:48:00.776 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:48:00.776 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:48:00.776 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:48:10.781 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:48:10.783 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:48:10.783 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:48:10.783 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:48:20.797 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:48:20.799 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:48:20.799 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:48:20.799 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:48:30.801 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:48:30.804 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:48:30.804 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:48:30.805 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:48:40.807 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:48:40.810 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:48:40.811 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:48:40.811 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:48:50.822 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:48:50.824 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:48:50.824 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:48:50.825 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:49:00.826 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:49:00.829 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:49:00.830 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:49:00.830 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:49:10.835 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:49:10.839 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:49:10.839 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:49:10.839 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:49:20.850 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:49:20.853 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:49:20.854 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:49:20.854 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:49:30.861 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:49:30.862 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:49:30.862 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:49:30.862 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:49:40.866 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:49:40.867 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:49:40.867 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:49:40.867 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:49:50.871 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:49:50.874 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:49:50.875 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:49:50.875 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:50:00.889 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:50:00.891 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:50:00.891 -03:00 [INF] Task ID: 66fcb341fe6feb2bb4f9a65c, Description: Nova tarefa a ser feita
+2024-10-01 23:50:00.891 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:50:10.897 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:50:10.900 -03:00 [INF] Encontradas 0 tarefas.
+2024-10-01 23:50:11.250 -03:00 [INF] Nova tarefa inserida: Nova tarefa a ser feita
+2024-10-01 23:50:21.255 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:50:21.260 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:50:21.260 -03:00 [INF] Task ID: 66fcb4e21d295fe5972436af, Description: Nova tarefa a ser feita
+2024-10-01 23:50:21.261 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:50:31.271 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:50:31.273 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:50:31.274 -03:00 [INF] Task ID: 66fcb4e21d295fe5972436af, Description: Nova tarefa a ser feita
+2024-10-01 23:50:31.274 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:50:41.274 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:50:41.276 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:50:41.276 -03:00 [INF] Task ID: 66fcb4e21d295fe5972436af, Description: Nova tarefa a ser feita
+2024-10-01 23:50:41.276 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:50:51.285 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:50:51.287 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:50:51.287 -03:00 [INF] Task ID: 66fcb4e21d295fe5972436af, Description: Nova tarefa a ser feita
+2024-10-01 23:50:51.287 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:50:58.838 -03:00 [INF] Application is shutting down...
+2024-10-01 23:51:09.802 -03:00 [INF] Worker running at: "2024-10-01T23:51:09.7870168-03:00"
+2024-10-01 23:51:09.834 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:51:09.904 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 23:51:09.904 -03:00 [INF] Hosting environment: Development
+2024-10-01 23:51:09.904 -03:00 [INF] Content root path: C:\Users\rayan\TaskWorkerService
+2024-10-01 23:51:09.986 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:51:09.987 -03:00 [INF] Task ID: 66fcb4e21d295fe5972436af, Description: Nova tarefa a ser feita
+2024-10-01 23:51:09.987 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:51:19.988 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:51:20.017 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:51:20.017 -03:00 [INF] Task ID: 66fcb4e21d295fe5972436af, Description: Nova tarefa a ser feita
+2024-10-01 23:51:20.017 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:51:30.026 -03:00 [INF] Iniciando busca de tarefas no MongoDB...
+2024-10-01 23:51:30.031 -03:00 [INF] Encontradas 1 tarefas.
+2024-10-01 23:51:30.032 -03:00 [INF] Task ID: 66fcb4e21d295fe5972436af, Description: Nova tarefa a ser feita
+2024-10-01 23:51:30.032 -03:00 [WRN] A tarefa já existe: Nova tarefa a ser feita
+2024-10-01 23:51:30.423 -03:00 [INF] Application is shutting down...
